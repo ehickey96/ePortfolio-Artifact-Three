@@ -1,0 +1,7 @@
+Failed Login (Incorrect Username) User: unkown person with password: 0 at 2021/10/03 13:24:21
+Failed Login (Incorrect Password) User: unknown person with password: 00 at 2021/10/03 13:24:33
+Successful Login by user: unknown person with password: ***** at 2021/10/03 13:24:39
+Failed Login (Incorrect Username) User: testSQL with password: test123 at 2021/10/03 13:26:14
+Successful Login by user: sqlTest with password: ***** at 2021/10/03 13:26:19
+Successful Login by user: snhuEhick with password: ***** at 2021/10/03 13:29:38
+Successful Login by user: sqlTest with password: ***** at 2021/10/03 13:29:53
